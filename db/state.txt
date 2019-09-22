@@ -1,0 +1,4 @@
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-ruc-zone-map/sql/20141222_20141223_ATL_RUC_ZONE_MAP_N_20190811_04_41_59_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-ruc-zone-map/sql/20131208_20131209_ATL_RUC_ZONE_MAP_N_20190811_04_07_56_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-ruc-zone-map/sql/20170331_20170401_ATL_RUC_ZONE_MAP_N_20190811_05_56_24_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-ruc-zone-map/sql/20181111_20181112_ATL_RUC_ZONE_MAP_N_20190811_06_49_20_v1.sql
